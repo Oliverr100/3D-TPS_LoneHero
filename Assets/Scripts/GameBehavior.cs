@@ -37,9 +37,7 @@ public class GameBehavior : MonoBehaviour
             LossButton.gameObject.SetActive(false);
     }
 
-    // ==========================
-    // ITEM SYSTEM
-    // ==========================
+    // ITEM SYSTEM //
     public int Items
     {
         get { return _itemsCollected; }
@@ -68,9 +66,7 @@ public class GameBehavior : MonoBehaviour
         }
     }
 
-    // ==========================
     // HP SYSTEM
-    // ==========================
     public int HP
     {
         get { return _playerHP; }
