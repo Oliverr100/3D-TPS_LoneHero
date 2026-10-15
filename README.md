@@ -4,7 +4,7 @@
 
 # Lone Hero
 
-A fast-paced third-person stealth and action-shooter prototype. Stranded in an isolated alien arena and vastly outnumbered, you balance tense line-of-sight stealth with high-stakes projectile combat to secure key items and find the exit. Made in Unity with C#.
+A fast-paced third-person stealth and action-shooter prototype. Stranded in an isolated alien arena and vastly outnumbered, you balance tense line-of-sight stealth with high-stakes projectile combat to secure key items and find the exit. Made in Unity 2022.3 with C#.
 
 **[Play it in your browser on itch.io](https://oliverrr100.itch.io/tps-lone-hero)**
 
@@ -26,11 +26,11 @@ A fast-paced third-person stealth and action-shooter prototype. Stranded in an i
 
 ## Built with
 
-Unity, C#, the NavMesh system and TextMesh Pro.
+Unity 2022.3 LTS (2022.3.62f3), C#, the NavMesh system and TextMesh Pro.
 
 ## Open the project
 
-Clone the repo and add the folder in Unity Hub. Hub shows which editor version the project was saved with.
+Clone the repo, add the folder in Unity Hub and open it with Unity 2022.3.62f3.
 
 ---
 
